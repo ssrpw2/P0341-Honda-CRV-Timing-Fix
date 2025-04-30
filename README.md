@@ -1,4 +1,4 @@
-# Fixing Honda CR-V P0341 Code (_Camshaft Position Sensor A - Bank 1 Circuit Range/Performance_)
+# Fixing Honda CR-V P0341 Code (_Camshaft Position (CMP) Sensor and Crankshaft Position (CKP) Sensor Incorrect Phase Detected_)
 Includes materials and instructions for diagnosis and full mechanical fix for Honda CR-V code P0341. Includes descriptions and diagrams for timing correction, resetting the power control module (PCM) idle learn process, and crank pattern relearn.
 > ⚠️ **Work in Progress**  
 > This guide is still being built. I’m actively working on adding:
