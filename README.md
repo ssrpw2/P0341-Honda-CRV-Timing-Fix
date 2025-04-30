@@ -1,7 +1,13 @@
 # Fixing Honda CR-V P0341 Code (_Camshaft Position Sensor A - Bank 1 Circuit Range/Performance_)
 Includes materials and instructions for diagnosis and full mechanical fix for Honda CR-V code P0341. Includes descriptions and diagrams for timing correction, resetting the power control module (PCM) idle learn process, and crank pattern relearn.
+> ⚠️ **Work in Progress**  
+> This guide is still being built. I’m actively working on adding:
+> - High-resolution photos of the engine components
+> - Diagrams of camshaft timing marks
+> - Scanner data screenshots
+> - Step-by-step instructions
 ## Overview
-This project documents how I diagnosed and successfully fixed a P0341 trouble code on a Honda CR-V.
+This project documents how I diagnosed and successfully fixed a P0341 trouble code on a 2010 Honda CR-V.
 
 ## Background
 Despite replacing the chain, guides, tensioner, and VTC actuator, and oil solenoid, the code persisted. Careful inspection revealed a slight timing mark misalignment at the crankshaft — a mistake that is easy to make. 
