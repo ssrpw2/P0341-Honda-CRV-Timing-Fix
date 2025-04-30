@@ -2,8 +2,8 @@
 Includes materials and instructions for diagnosis and full mechanical fix for Honda CR-V code P0341. Includes descriptions and diagrams for timing correction, resetting the power control module (PCM) idle learn process, and crank pattern relearn.
 > ⚠️ **Work in Progress**  
 > This guide is still being built. I’m actively working on adding:
-> - High-resolution photos of the engine components
-> - Diagrams of camshaft timing marks
+> - Photos of the engine components
+> - Diagrams of camshaft/crankshaft timing marks
 > - Scanner data screenshots
 > - Step-by-step instructions
 ## Overview
