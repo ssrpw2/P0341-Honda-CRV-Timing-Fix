@@ -37,12 +37,6 @@ Each section is available in its own markdown file:
 - [Lessons Learned & Common Pitfalls](./lessons_learned.md)
 - [Helpful Resources](./resources.md)
 
-# Symptoms and Warning Signs
-
-- Difficulty starting the vehicle
-- P0341 code present 
-- Rattling sound near the engine
-
 
 
 ### Fair Use Notice
