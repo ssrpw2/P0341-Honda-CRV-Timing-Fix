@@ -44,3 +44,33 @@ Each section is available in its own markdown file:
 - Rattling sound near the engine
 
 
+
+### Fair Use Notice
+
+This repository contains a small number of excerpts from the official Honda CR-V Service Manual. These are used under the doctrine of **fair use** for educational and diagnostic purposes:
+
+- Only minimal, relevant excerpts are included
+- All original diagrams are labeled with attribution
+- Annotations and commentary are my own. When excerpts are annotated, it is indicated on the image. 
+
+This project is not affiliated with or endorsed by Honda.  
+All rights to the original manual content remain with Honda Motor Co.
+
+### Licensing & Attribution
+This project and its original content are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+---
+
+#### Attribution Summary:
+- Original content (photos, diagrams, text) © 2025 Samantha White
+  -  Licensed under CC BY 4.0: you are free to use, share, or adapt this material with attribution.
+
+
+- Factory manual excerpts © Honda Motor Co., used under fair use
+- All excerpts are marked and credited
+
+See [`LICENSE.md`](./LICENSE.md) for full license terms.
+
+
