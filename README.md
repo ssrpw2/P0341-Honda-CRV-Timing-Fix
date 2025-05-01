@@ -58,7 +58,7 @@ This project and its original content are licensed under the [Creative Commons A
 ---
 
 #### Attribution Summary:
-- Original content (photos, diagrams, text) © 2025 Samantha White
+- Original content (photos, diagrams, text) © 2025 Samantha White, Benjamin Dunn
   -  Licensed under CC BY 4.0: you are free to use, share, or adapt this material with attribution.
 
 
