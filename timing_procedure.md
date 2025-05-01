@@ -6,7 +6,7 @@
 
 The no.1 piston must be set at top dead center (TDC). The punch marks on the VTC actuator and the exhaust camshaft sprocket must be at the top. Check the TDC marks on the VTC actuator and exhaust camshaft sprocket. These should be lined up right across from each other.
 
-_Note: rotate the crankshaft 180 degrees if the marks are opposite of each other_ 
+_Note: rotate the crankshaft 360 degrees if the camshaft timing marks are opposite of each other, the crankshaft rotates twice for every camshaft rotation_ 
 
 
 
