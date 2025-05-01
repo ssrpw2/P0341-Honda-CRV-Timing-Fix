@@ -35,4 +35,4 @@ To view the full license, visit:
 
 ---
 
-## © 2025 Samantha White
+## © 2025 Samantha White & Benjamin Dunn
