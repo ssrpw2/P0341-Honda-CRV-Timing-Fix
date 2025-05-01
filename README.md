@@ -1,7 +1,7 @@
 # Fixing Honda CR-V P0341 Code 
 _Camshaft Position (CMP) Sensor and Crankshaft Position (CKP) Sensor Incorrect Phase Detected_
 ----------------
-Includes materials and instructions for diagnosis and full mechanical fix for Honda CR-V code P0341. Includes descriptions and diagrams for timing correction, resetting the power control module (PCM) idle learn process, and crank pattern relearn.
+Includes materials and instructions for diagnosis and full mechanical fix for 2010 Honda CR-V code P0341. Includes descriptions and diagrams for timing correction, resetting the power control module (PCM) idle learn process, and crank pattern relearn.
 > ⚠️ **Work in Progress**  
 > This guide is still being built. I’m actively working on adding:
 > - Photos of the engine components
@@ -12,7 +12,7 @@ Includes materials and instructions for diagnosis and full mechanical fix for Ho
 This project documents how I diagnosed and successfully fixed a P0341 trouble code on a 2010 Honda CR-V.
 
 ## Background
-Despite replacing the chain, guides, tensioner, and VTC actuator, and oil solenoid, the code persisted. Careful inspection revealed a slight timing mark misalignment at the crankshaft — a mistake that is easy to make. 
+Despite replacing the timing chain, guides, tensioner, Variable Timing Control (VTC) actuator, and oil solenoid, the code persisted. Careful inspection revealed a slight timing mark misalignment at the crankshaft — a mistake that is easy to make. 
 This guide includes:
 - Symptoms I noticed
 - Step-by-step diagnosis
