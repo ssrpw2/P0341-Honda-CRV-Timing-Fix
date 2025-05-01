@@ -10,7 +10,7 @@ _Note: rotate the crankshaft 360 degrees if the camshaft timing marks are opposi
 
 
 
-> The correct alignment is closer to a **peak-to-valley** line up for the gear teeth than it is to a peak-to-peak line up of the teeth
+> The correct alignment is closer to a **peak-to-valley** line up for the gear teeth than it is to a peak-to-peak line up of the teeth.
 > Some DIYers mistakenly assume both marks should land on matching gear tooth peaks, but this is not the case.  
 > Trust the etched marks on the VTC actuator and the exhaust camshaft sprocket, and line them up straight.
 
