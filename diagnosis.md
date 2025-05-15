@@ -1,6 +1,6 @@
 When the Diagnostic Trouble Code (DTC) P0341 is present, the fastest way to check the timing is to remove the engine valve cover and inspect the timing marks on the intake and exhaust camshafts. It is better to assume that P0341 is accurately indicating that the camshaft and crankshaft positions are not lined up, rather than assume the sensor is faulty and giving a bad reading. The vehicle can be checked to confirm mechanical alignment issues.
 
-- Remove the bolts and ignition coil packs so that the valve cover can be taken off. Use a flathead screwdriver to gain leverage and pry it off, taking care not to damage the gasket between the cover and the engine block.  
+- Remove the bolts and ignition coil packs so that the valve cover can be taken off. Use a flathead screwdriver to pry it off of being seated, taking care not to damage the gasket between the cover and the engine block.  
 - Remove the passenger side (left front) tire to access the crankshaft.  
 - Rotate the engine to top dead center (TDC). A socket and wrench can be used to do this, or a pulley attachment.  
 - Check the timing marks on the VTC actuator (attached to the intake camshaft) and on the camshaft sprocket (exhaust camshaft). If your vehicle is not timed correctly, you will see that the lines are off by at least a tooth.  
